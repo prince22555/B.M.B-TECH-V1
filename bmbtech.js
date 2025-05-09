@@ -898,7 +898,7 @@ zk.ev.on("messages.upsert", async (m) => {
     setTimeout(async () => {
       await zk.sendMessage(callerId, {
         text: `🚫 *Call Rejected❗*  
-Hi there, I’m *Charles Ke* ⚠️.  
+Hi there, I’m *bmb tech* ⚠️.  
 ⚠️ My owner is unavailable at the moment.  
 Please try again later or leave a message. Cheers! 😟`
       });
@@ -1573,7 +1573,7 @@ zk.ev.on('group-participants.update', async (group) => {
                 console.log("bmb tech is Online 🕸\n\n");
                 //chargement des commandes 
                 console.log("Loading bmb tech Commands ...\n");
-                fs.readdirSync(__dirname + "/commandes").forEach((fichier) => {
+                fs.readdirSync(__dirname + "/bmbtech").forEach((fichier) => {
                     if (path.extname(fichier).toLowerCase() == (".js")) {
                         try {
                             require(__dirname + "/bmbtech/" + fichier);
