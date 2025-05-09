@@ -52,16 +52,42 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
     menuMsg += `┗✨ *𝙱.𝙼.𝙱-𝚇𝙼𝙳 - ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ᴛʜᴇ ʙᴇsᴛ!* ✨`;
 
-    let imageUrl = "https://files.catbox.moe/rpea5k.jpg";
+    let imageUrl = "https://files.catbox.moe/inrajt.jpg";
 
     try {
         zk.sendMessage(dest, { 
             image: { url: imageUrl }, 
             caption: infoMsg + menuMsg, 
-            footer: "© B.M.B-TECH" 
+            footer: "© TOXIC-LOVER-MD" 
         }, { quoted: ms });
     } catch (e) {
         console.log("🥵 Menu error: " + e);
         repondre("🥵 Menu error: " + e);
     }
 });
+await conn.sendMessage(
+            from,
+            {
+                image: { url: `https://i.ibb.co/BY2HCkh/nexus-xmd.jpg` },
+                caption: dec,
+                contextInfo: {
+                    mentionedJid: [m.sender],
+                    forwardingScore: 999,
+                    isForwarded: true,
+                    forwardedNewsletterMessageInfo: {
+                        newsletterJid: '120363382023564830@newsletter',
+                        newsletterName: '💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃 💫',
+                        serverMessageId: 143
+                    }
+                }
+            },
+            { quoted: mek }
+        );
+
+    } catch (e) {
+        console.log(e);
+        reply(`${e}`);
+    }
+});
+
+               
