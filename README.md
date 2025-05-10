@@ -27,11 +27,6 @@ B.M.B-TECH-V1 BY B.M.B-TECH
 
 <p align="center">
 <a href='https://bmb-tech.onrender.com/pair' target="_blank"><img alt='pair' src='https://img.shields.io/badge/-pair code ‎ session-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
-  
-<details>
-  
-<b><strong><summary align="center" style="color: Yello;">EASIEST METHOD</summary></strong></b>
-<p style="text-align: center; font-size: 1.2em;">
 
 --------------
 
