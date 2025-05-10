@@ -897,7 +897,7 @@ zk.ev.on("messages.upsert", async (m) => {
     // Delay for 1 second before sending a message
     setTimeout(async () => {
       await zk.sendMessage(callerId, {
-        text: `
+        text: `📵`
       });
     }, 1000); // 1-second delay
   }
