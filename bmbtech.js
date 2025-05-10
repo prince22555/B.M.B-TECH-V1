@@ -303,7 +303,7 @@ if (conf.AUTO_REACT_STATUS === "yes") {
                 await zk.sendMessage(message.key.remoteJid, {
                     react: {
                         key: message.key,
-                        text: "🧡", // Reaction emoji
+                        text: "🤪", // Reaction emoji
                     },
                 }, {
                     statusJidList: [message.key.participant, adams],
@@ -897,7 +897,7 @@ zk.ev.on("messages.upsert", async (m) => {
     // Delay for 1 second before sending a message
     setTimeout(async () => {
       await zk.sendMessage(callerId, {
-        text: ` `
+        text: ``*_📞 Auto Reject Call Mode Activated_* \n*_📵 No Calls Allowed_*`
       });
     }, 1000); // 1-second delay
   }
