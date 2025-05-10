@@ -65,29 +65,5 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
         repondre("🥵 Menu error: " + e);
     }
 });
-await conn.sendMessage(
-            from,
-            {
-                image: { url: `https://i.ibb.co/BY2HCkh/nexus-xmd.jpg` },
-                caption: dec,
-                contextInfo: {
-                    mentionedJid: [m.sender],
-                    forwardingScore: 999,
-                    isForwarded: true,
-                    forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '💫 𝐁.𝐌.𝐁-𝐗𝐌𝐃 💫',
-                        serverMessageId: 143
-                    }
-                }
-            },
-            { quoted: mek }
-        );
-
-    } catch (e) {
-        console.log(e);
-        reply(`${e}`);
-    }
-});
 
                
