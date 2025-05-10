@@ -1,6 +1,6 @@
 ---
 
-<a><img src='https://i.ibb.co/0p2bWfbv/nexus-xmd.jpg'/></a>
+<a><img src='https://files.catbox.moe/7dch6r.jpg'/></a>
 
 ---
     
