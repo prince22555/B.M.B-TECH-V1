@@ -65,7 +65,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://ibb.co/q70RyBd",
+      "value":"https://files.catbox.moe/7wbud7.jpg",
       "required":false
        
      },
@@ -97,7 +97,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "𝙱.𝙼.𝙱-𝚇𝙼𝙳"
   },
     "NUMERO_OWNER":
   {
