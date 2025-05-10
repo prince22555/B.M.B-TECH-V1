@@ -39,7 +39,7 @@
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "AUTO_REACT_STATUS":
@@ -77,7 +77,7 @@
     }
 	,
     "HEROKU_API_KEY": {
-    "description": "insert your heroku api-key (this is optionnal)",
+    "description": "insert your heroku api-key (this is optionnal)"HRKU-6930f8d0-3dde-4024-8bc5-ea03012e0fc1",
      "required" :false
     },
   "HEROKU_APP_NAME": {
