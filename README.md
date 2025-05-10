@@ -13,61 +13,25 @@ B.M.B-TECH-V1 BY B.M.B-TECH
 ---
 
 
-<h4 align="center">2. heroku</h4>
+<h4 align="center">2. fork</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
 <p align="center">
-<a href='https://dashboard.fork.com/new?template=https://github.com/bmbxmd/B.M.B-TECH-V1/fork'' target="_blank"><img FORK' src='https://img.shields.io/badge/-fork ‎repo-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://github.com/bmbxmd/B.M.B-TECH-V1/fork'' target="_blank"><img FORK' src='https://img.shields.io/badge/-fork ‎repo-6971FF?style=for-the-badge&logo=Github&logoColor=white'/< width=150 height=28/p></a>
 
 ----------
 
-<h4 align="center">1. TalkDrove Free</h4>
+<h4 align="center">1. pair code</h4>
 <p style="text-align: center; font-size: 1.2em;">
 
 
 <p align="center">
-<a href='https://talkdrove.com/share-bot/11' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-TalkDrove ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+<a href='https://bmb-tech.onrender.com/pair' target="_blank"><img alt='pair' src='https://img.shields.io/badge/-pair code ‎ session-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
   
 <details>
   
 <b><strong><summary align="center" style="color: Yello;">EASIEST METHOD</summary></strong></b>
 <p style="text-align: center; font-size: 1.2em;">
- 
-
-<h3 align="center"> HOW TO DEPLOY ON TALKDROVE</h3>
-<h6 align-"center">
-Create Account Here:
-
-https://host.talkdrove.com/auth/signup?ref=9535F15A
-
-Then Login
-Claim 10 coins in wallet section
-Locate where to deploy your bot
-You will see a dashboard of bots listed 
-
-
-Click next , next
-Until you see SUBZERO MD
-Then click on it
-
-You will be asked to fill in some stuffs like your session Id , and other stuffs on how you want your bot to be ( bot settings ) , it's not hard I added examples
-
-
-Get session I'd here:
-
-https://bmb-website-deploy.onrender.com/pair
-
-After you're done filling it
-Click deploy button 
-
-If you can't see any deploy button , switch the website to dark mode 
-
-It will show
-
-That's all bot connected
-
-`MR FRANK OFC`</h6>
-</details>
 
 --------------
 
